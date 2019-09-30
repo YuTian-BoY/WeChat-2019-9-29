@@ -5,7 +5,8 @@
     "pages/ShoppingCart/main",
     "pages/Personage/main",
     "pages/Login/main",
-    "pages/Buy/main"
+    "pages/Buy/main",
+    "pages/Search/main"
   ],
   "window": {
     "navigationBarBackgroundColor": "#158447",
